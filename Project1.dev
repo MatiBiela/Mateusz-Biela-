@@ -1,5 +1,5 @@
 [Project]
-FileName=zd.dev
+FileName=Project1.dev
 Name=Project1
 Type=1
 Ver=2
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=zd.cpp
+FileName=main.cpp
 CompileCpp=1
 Folder=
 Compile=1
