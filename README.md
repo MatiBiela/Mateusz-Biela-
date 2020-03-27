@@ -1,1 +1,0 @@
-# struktury1
